@@ -1,0 +1,37 @@
+```plaintext
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
+
+# Arquivos Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ambientes virtuais
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Configurações de IDEs
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+ Calculadora Simples
+
+Descrição: Desenvolva um programa em Python que exibe um menu com operações aritméticas (adição, subtração, multiplicação e divisão). O programa deve solicitar ao usuário que escolha uma operação e insira dois números, realizando a operação escolhida e exibindo o resultado. Em caso de divisão por zero, o programa deve exibir uma mensagem de erro.
+
+Funcionalidades obrigatórias:
+
+1. Exibição de um menu com as operações: adição, subtração, multiplicação e divisão.
+2. Leitura da escolha do usuário e dos dois números.
+3. Realização da operação selecionada e exibição do resultado.
+4. Tratamento de erro para divisão por zero.
+Tecnologias: Python 3.x
+
+Licença: MIT License
