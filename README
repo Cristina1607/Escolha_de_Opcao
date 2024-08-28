@@ -1,0 +1,50 @@
+# Projeto: Calculadora Simples
+
+Este projeto é um programa em Python que realiza operações aritméticas básicas (adição, subtração, multiplicação e divisão) com base na escolha do usuário. O objetivo é demonstrar o uso de estruturas condicionais e manipulação de entradas em Python.
+
+## Índice
+
+- [Descrição](#descrição)
+- [Funcionalidades](#funcionalidades)
+- [Tecnologias Utilizadas](#tecnologias-utilizadas)
+- [Como Executar o Projeto](#como-executar-o-projeto)
+- [Exemplos de Uso](#exemplos-de-uso)
+- [Contribuições](#contribuições)
+- [Licença](#licença)
+- [Contato](#contato)
+
+## Descrição
+
+O programa exibe um menu de operações aritméticas (adição, subtração, multiplicação e divisão) e solicita ao usuário que escolha uma operação. Após a escolha, o programa pede ao usuário que insira dois números e realiza a operação selecionada, exibindo o resultado. Se o usuário tentar dividir por zero, o programa retorna um erro.
+
+## Funcionalidades
+
+- Exibe um menu com as operações disponíveis: adição, subtração, multiplicação e divisão.
+- Solicita ao usuário que escolha uma operação e insira dois números.
+- Realiza a operação escolhida e exibe o resultado.
+- Lida com a divisão por zero, exibindo uma mensagem de erro apropriada.
+
+## Tecnologias Utilizadas
+
+- **Linguagem de Programação:** Python 3.x
+
+## Como Executar o Projeto
+
+### Pré-requisitos
+
+- Python 3.x instalado.
+
+### Passos para Execução
+
+1. **Clone o repositório:**
+
+   ```bash
+   git clone https://github.com/Cristina1607/Escolha_de_opcao.git
+2. Navegue até o diretório do projeto:
+  cd nome-do-repositorio
+3. Execute o programa:
+  python3 nome_do_arquivo.py
+4. Escolha uma operação e insira dois números quando solicitado.
+
+Licença
+Este projeto está licenciado sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
